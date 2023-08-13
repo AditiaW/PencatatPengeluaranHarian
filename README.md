@@ -1,7 +1,7 @@
 # Pencatat Pengeluaran Harian
 
 **Deskripsi:**
-Program "Pencatat Pengeluaran Harian" adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk mencatat pengeluaran harian mereka. Program ini memberikan pengguna kemampuan untuk memasukkan nama mereka dan secara interaktif mencatat pengeluaran mereka sepanjang hari. Pengguna dapat memasukkan deskripsi pengeluaran dan jumlah uang yang dikeluarkan. Setiap pengeluaran yang dicatat disimpan dalam sebuah laporan, yang berisi rincian deskripsi, jumlah pengeluaran, dan tanggal pencatatan.
+Program "Pencatat Pengeluaran Harian" adalah sebuah aplikasi yang memungkinkan pengguna untuk mencatat pengeluaran harian mereka. Program ini memberikan pengguna kemampuan untuk memasukkan nama mereka dan secara interaktif mencatat pengeluaran mereka sepanjang hari. Pengguna dapat memasukkan deskripsi pengeluaran dan jumlah uang yang dikeluarkan. Setiap pengeluaran yang dicatat disimpan dalam sebuah laporan, yang berisi rincian deskripsi, jumlah pengeluaran, dan tanggal pencatatan.
 
 **Langkah Kerja:**
 1. Program dimulai dengan menyambut pengguna dan meminta mereka memasukkan nama.
@@ -17,4 +17,4 @@ Program "Pencatat Pengeluaran Harian" adalah sebuah aplikasi sederhana yang memu
 Program ini memberikan manfaat bagi pengguna dalam mencatat dan melacak pengeluaran harian mereka dengan mudah. Dengan memiliki laporan pengeluaran yang terstruktur, pengguna dapat memiliki pandangan yang lebih jelas tentang bagaimana mereka menghabiskan uang mereka sehari-hari.
 
 **Catatan:**
-Program ini merupakan contoh sederhana dan dapat dikembangkan lebih lanjut dengan penambahan fitur seperti pengelompokan pengeluaran berdasarkan kategori, menghitung total pengeluaran per minggu/bulan, atau mengatur pengingat untuk mencatat pengeluaran setiap hari.
+Program ini merupakan contoh aplikasi yang bisa diterapkan dan dapat dikembangkan lebih lanjut dengan penambahan fitur seperti pengelompokan pengeluaran berdasarkan kategori, menghitung total pengeluaran per minggu/bulan, atau mengatur pengingat untuk mencatat pengeluaran setiap hari.
